@@ -1,4 +1,4 @@
 # React Samples
 
-## Cotenidos
+## Contenidos
 - PokeApp
